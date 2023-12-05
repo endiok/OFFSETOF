@@ -1,0 +1,2 @@
+# OFFSETOF
+define OFFSETOF
